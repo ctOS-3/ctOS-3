@@ -1,5 +1,5 @@
-Hi, I'm ctOS 3
-I like coding
+Hi, I'm ctOS 3.0)
+I like coding)
 That is all)
 
 <!---
